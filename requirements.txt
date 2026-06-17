@@ -1,0 +1,8 @@
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.8
+networkx==3.6.1
+python-dotenv==1.2.2
+telethon==1.43.2
+python-socks==2.8.1
+ipython==9.8.0
