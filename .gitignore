@@ -180,5 +180,5 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 *.session
-.env
-.env
+/data
+/models
