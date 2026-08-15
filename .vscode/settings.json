@@ -1,0 +1,6 @@
+{
+    "projectStructureCopier.omitContentExtensions": [
+        "models/"
+    ],
+    "projectStructureCopier.useGitIgnore": true
+}
